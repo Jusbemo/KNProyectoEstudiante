@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36109.1 d17.14
+VisualStudioVersion = 17.13.35828.75 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KProyecto", "KProyecto\KProyecto.csproj", "{0C409DB5-D4E9-42B8-90ED-1CBE3D8D311F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KProyecto", "KProyecto\KProyecto.csproj", "{CCEE48B1-83B8-4097-A942-AFE8695CF138}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0C409DB5-D4E9-42B8-90ED-1CBE3D8D311F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0C409DB5-D4E9-42B8-90ED-1CBE3D8D311F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0C409DB5-D4E9-42B8-90ED-1CBE3D8D311F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0C409DB5-D4E9-42B8-90ED-1CBE3D8D311F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCEE48B1-83B8-4097-A942-AFE8695CF138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCEE48B1-83B8-4097-A942-AFE8695CF138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCEE48B1-83B8-4097-A942-AFE8695CF138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCEE48B1-83B8-4097-A942-AFE8695CF138}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {36068F83-3A4A-4342-B390-31E8BFBC3501}
+		SolutionGuid = {039D2E04-6A21-436D-BA5E-0F02EE6BCC51}
 	EndGlobalSection
 EndGlobal
